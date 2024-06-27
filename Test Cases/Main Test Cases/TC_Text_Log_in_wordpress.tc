@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check Text Log in to Wordpress.com</description>
+   <name>TC_Text_Log_in_wordpress</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf28194a-091f-49fe-ab97-40fb36fc3622</testCaseGuid>
+</TestCaseEntity>
