@@ -88,5 +88,7 @@ WebUI.click(findTestObject('Vision_Common/menu_toggle'))
 
 WebUI.click(findTestObject('Vision_Common/menu_History'))
 
+WebUI.takeElementScreenshotAsCheckpoint('section_History', findTestObject('Vision_Common/section_History'))
+
 WebUI.closeBrowser()
 
