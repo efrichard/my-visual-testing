@@ -9,7 +9,7 @@ Steps:&#xd;
 &#xd;
 Expected results:&#xd;
 Appointment Confirmation page is displayed</description>
-   <name>TC2_Verify Successful Appointment_With TestOps Visual Testing</name>
+   <name>TC3_Show History After Appointment_With TestOps Visual Testing</name>
    <tag></tag>
    <comment>Story: Book an appointment&#xd;
 Given that the user has logged into their account&#xd;
@@ -17,95 +17,95 @@ And Appointment page is displayed&#xd;
 When he fills in valid information in Appointment page&#xd;
 Then he should be able to book a new appointment</comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>c880ce98-5804-476f-88e9-c34919fccc5d</testCaseGuid>
+   <testCaseGuid>d4963437-5ab0-4e76-a8ee-56b135de052e</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>e2dec500-1cc2-4ada-8aac-e73448eec660</variableId>
+      <variableId>779d3750-7b36-4605-bd75-43fd495872b2</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>7ea6e44e-ce39-405d-9d1d-3ab35a178d43</variableId>
+      <variableId>84718029-16be-45e8-b76a-c71dd4a7c481</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>e05bec37-8dfc-4de2-978a-965e4f5538dd</variableId>
+      <variableId>c53e8f0e-c229-4556-aa33-d0d4f05f386a</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>58c15445-d45d-46e6-ac70-c7adbbd2cc87</variableId>
+      <variableId>d808bb6d-6738-478b-a46d-9e2d56d70b44</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>eacdca82-eacc-4d25-b197-4c041b388673</variableId>
+      <variableId>cb1b9fe9-9f65-40b1-b79b-4237e93292e9</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>531ffc7f-7d0a-4026-ab99-e2e68882bc87</variableId>
+      <variableId>b205a642-8ed8-4a96-b146-ab4013702f5d</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>eb415e4d-2c48-4c2d-b042-07a4d492a48b</variableId>
+      <variableId>96f1533f-bc77-4662-9c2d-21adb2bf93af</variableId>
    </variableLinks>
    <variable>
       <defaultValue>findTestObject('Vision_Common/Facility_Combobox')</defaultValue>
       <description></description>
-      <id>e2dec500-1cc2-4ada-8aac-e73448eec660</id>
+      <id>779d3750-7b36-4605-bd75-43fd495872b2</id>
       <masked>false</masked>
       <name>FacilityObject</name>
    </variable>
    <variable>
       <defaultValue>findTestObject('Vision_Common/Date_Input')</defaultValue>
       <description></description>
-      <id>7ea6e44e-ce39-405d-9d1d-3ab35a178d43</id>
+      <id>84718029-16be-45e8-b76a-c71dd4a7c481</id>
       <masked>false</masked>
       <name>DateObject</name>
    </variable>
    <variable>
       <defaultValue>findTestObject('Vision_Common/Comment_Input')</defaultValue>
       <description></description>
-      <id>e05bec37-8dfc-4de2-978a-965e4f5538dd</id>
+      <id>c53e8f0e-c229-4556-aa33-d0d4f05f386a</id>
       <masked>false</masked>
       <name>CommentObject</name>
    </variable>
    <variable>
       <defaultValue>findTestObject('Vision_Common/Medicare_Choices')</defaultValue>
       <description></description>
-      <id>58c15445-d45d-46e6-ac70-c7adbbd2cc87</id>
+      <id>d808bb6d-6738-478b-a46d-9e2d56d70b44</id>
       <masked>false</masked>
       <name>MedicareChoicesObject</name>
    </variable>
    <variable>
       <defaultValue>findTestObject('Vision_Common/Make_Appointment_Dialog')</defaultValue>
       <description></description>
-      <id>eacdca82-eacc-4d25-b197-4c041b388673</id>
+      <id>cb1b9fe9-9f65-40b1-b79b-4237e93292e9</id>
       <masked>false</masked>
       <name>AppointmentDialogObject</name>
    </variable>
    <variable>
       <defaultValue>findTestObject('Vision_Common/Comment_Label')</defaultValue>
       <description></description>
-      <id>531ffc7f-7d0a-4026-ab99-e2e68882bc87</id>
+      <id>b205a642-8ed8-4a96-b146-ab4013702f5d</id>
       <masked>false</masked>
       <name>CommentLabelObject</name>
    </variable>
    <variable>
       <defaultValue>findTestObject('Vision_Common/Make_Appointment_Label')</defaultValue>
       <description></description>
-      <id>eb415e4d-2c48-4c2d-b042-07a4d492a48b</id>
+      <id>96f1533f-bc77-4662-9c2d-21adb2bf93af</id>
       <masked>false</masked>
       <name>MakeAppointmentLabel</name>
    </variable>
